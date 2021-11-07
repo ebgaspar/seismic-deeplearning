@@ -3,10 +3,10 @@ channels:
  - conda-forge
  - pytorch
 dependencies:
-  - python=3.7.5
-  - pip=21.3.1
-  - setuptools-58.5.3
-  - wheel-0.37.0
+  - python==3.7.5
+  - pip==21.3.1
+  - setuptools==58.5.3
+  - wheel==0.37.0
   - pytorch==1.4.0
   - cudatoolkit==10.1.243
   - jupyter
